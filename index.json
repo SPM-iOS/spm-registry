@@ -4,8 +4,64 @@
     "url": "https://shortcutspackagemanager.vercel.app",
     "maintainer": "shortcutspackageman",
     "version": 1,
-    "generatedAt": "2026-05-04T00:00:00Z"
+    "generatedAt": "2026-05-08T15:36:09.830Z"
   },
-  "searchIndex": {},
-  "packages": []
+  "searchIndex": {
+    "spm": [
+      "keylympi.spm"
+    ],
+    "adds": [
+      "keylympi.spm"
+    ],
+    "packages": [
+      "keylympi.spm"
+    ],
+    "to": [
+      "keylympi.spm"
+    ],
+    "ios": [
+      "keylympi.spm"
+    ],
+    "development": [
+      "keylympi.spm"
+    ],
+    "keylympi": [
+      "keylympi.spm"
+    ],
+    "shortcut": [
+      "keylympi.spm"
+    ]
+  },
+  "packages": [
+    {
+      "id": "keylympi.spm",
+      "name": "SPM",
+      "type": "shortcut",
+      "description": "Adds packages to iOS",
+      "author": {
+        "name": "KeyLymPi",
+        "url": "keylympi.dev"
+      },
+      "license": "MIT",
+      "tags": [
+        "development"
+      ],
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "minIOS": "16.0",
+          "changelog": "",
+          "releasedAt": "2026-05-08T15:36:09.830Z",
+          "dependencies": [],
+          "download": {
+            "url": "https://raw.githubusercontent.com/SPM-iOS/spm-registry/main/packages/keylympi.spm/1.0.0/Shortcuts Package Manager.shortcut",
+            "sha256": ""
+          }
+        }
+      ],
+      "createdAt": "2026-05-08T15:36:09.830Z",
+      "updatedAt": "2026-05-08T15:36:09.830Z"
+    }
+  ]
 }
