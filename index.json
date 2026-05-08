@@ -4,9 +4,39 @@
     "url": "https://shortcutspackagemanager.vercel.app",
     "maintainer": "shortcutspackageman",
     "version": 1,
-    "generatedAt": "2026-05-08T15:36:09.830Z"
+    "generatedAt": "2026-05-08T18:47:40.023Z"
   },
   "searchIndex": {
+    "icongetter": [
+      "keylympi.icongetter"
+    ],
+    "get": [
+      "keylympi.icongetter"
+    ],
+    "the": [
+      "keylympi.icongetter"
+    ],
+    "icon": [
+      "keylympi.icongetter"
+    ],
+    "of": [
+      "keylympi.icongetter"
+    ],
+    "any": [
+      "keylympi.icongetter"
+    ],
+    "shortcut": [
+      "keylympi.icongetter",
+      "keylympi.spm"
+    ],
+    "development": [
+      "keylympi.icongetter",
+      "keylympi.spm"
+    ],
+    "keylympi": [
+      "keylympi.icongetter",
+      "keylympi.spm"
+    ],
     "spm": [
       "keylympi.spm"
     ],
@@ -21,18 +51,39 @@
     ],
     "ios": [
       "keylympi.spm"
-    ],
-    "development": [
-      "keylympi.spm"
-    ],
-    "keylympi": [
-      "keylympi.spm"
-    ],
-    "shortcut": [
-      "keylympi.spm"
     ]
   },
   "packages": [
+    {
+      "id": "keylympi.icongetter",
+      "name": "IconGetter",
+      "type": "shortcut",
+      "description": "Get the icon of any shortcut",
+      "author": {
+        "name": "KeyLymPi",
+        "url": "Keylympi.dev"
+      },
+      "license": "MIT",
+      "tags": [
+        "development"
+      ],
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "minIOS": "16.0",
+          "changelog": "",
+          "releasedAt": "2026-05-08T18:47:40.023Z",
+          "dependencies": [],
+          "download": {
+            "url": "https://raw.githubusercontent.com/SPM-iOS/spm-registry/main/packages/keylympi.icongetter/1.0.0/Icon Getter.shortcut",
+            "sha256": ""
+          }
+        }
+      ],
+      "createdAt": "2026-05-08T18:47:40.023Z",
+      "updatedAt": "2026-05-08T18:47:40.023Z"
+    },
     {
       "id": "keylympi.spm",
       "name": "SPM",
